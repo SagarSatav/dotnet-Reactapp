@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "T5bCREj+g3nzrCR/AM4xWEa8lNBV8XHbUcGKP2WDY5I=",
+  "Source": "PMSWebApi",
+  "BasePath": "_content/PMSWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
